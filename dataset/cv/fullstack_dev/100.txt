@@ -1,0 +1,47 @@
+Personal Information
+
+Name: Alex Johnson
+
+Address: 1234 Park Street, City, State, Zip
+
+Phone: (123) 456-7890
+
+Email: alexjohnson@example.com
+
+Education
+
+Bachelor’s Degree in Computer Engineering
+
+City University, City, State
+Work Experience
+
+Software Developer (3 years)
+
+ABC Technology Solutions, City, State
+Developed and maintained software systems
+Collaborated with internal teams and external clients
+Designed, developed, and implemented applications to support business requirements
+Followed approved lifecycle methodologies
+Resolved technical issues through debugging, research, and investigation
+Demonstrated creativity in finding solutions
+Full-Stack Developer (2 years)
+
+DEF Health Systems, City, State
+Played an important role in the analysis, development, and maintenance of health data systems and related information technology
+Worked with internal teams and external partners, offering solutions to improve patient outcomes
+Created design documents and performed program coding and testing
+Relying on extensive experience and judgment to plan and accomplish goals
+Demonstrated leadership qualities through team motivation, coaching, and mentoring
+Skills
+
+Background in computer science, including expertise in algorithms, data structures, complex programming languages, and operating systems
+Track record of building scalable enterprise solutions
+Experience in interface development with integration/interface engines
+Knowledge of Agile software development lifecycle
+Excellent skills in web application development, web services, and REST APIs
+Knowledge of JavaScript, STS, Spring Boot, and Java Application Servers
+Literacy in SQL databases, including the ability to write complex queries
+Expertise in application security and authentication, including SSL, HTTPS, and Active Directory
+Experience with SMART on FHIR, OAuth2, and SAML
+Experience developing cloud-based applications in Azure or AWS
+Experience with Tableau

@@ -1,0 +1,43 @@
+Personal Information
+
+Name: John Doe
+
+Address: 456 Oak Lane, City, State, Zip
+
+Phone: (987) 654-3210
+
+Email: johndoe@example.com
+
+Education
+
+Bachelor’s Degree in Computer Science
+
+XYZ University, City, State
+Work Experience
+
+Software Developer (5 years)
+
+ABC Company, City, State
+Managed the maintenance of health data systems and related information technology
+Acted as a key liaison with partners and vendor engineering teams
+Collaborated effectively with teams at all levels of the organization
+Developed software and products for Maine’s statewide Health Information Exchange (HIE) platform
+Demonstrated a high-degree of creativity and ability to find solutions where others may see roadblocks
+Followed approved lifecycle methodologies within an Agile software development environment
+Performed program coding, testing, and application implementation to support business requirements
+Conducted investigations to resolve issues
+Skills
+
+Expertise in algorithms and complex programming languages
+Knowledge of OAuth2, STS, and Active Directory for secure authentication
+Familiar with various operating systems
+Experience developing cloud-based applications in Azure or AWS
+Expertise in application security and authentication
+Track record of building scalable enterprise solutions
+Experience with SMART on FHIR for healthcare data interoperability
+Excellent skills in web application development using REST APIs
+Literacy in SQL databases and data structures
+Proficiency in HTTPS for secure data transmission
+Experience with Tableau for data visualization
+Leadership qualities demonstrated through team motivation and mentoring
+Knowledge of healthcare information technology and healthcare delivery systems

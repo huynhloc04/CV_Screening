@@ -1,0 +1,48 @@
+Personal Information
+
+Name: John Smith
+
+Address: 123 Maple Street, City, State, Zip
+
+Phone: (123) 456-7890
+
+Email: johnsmith@example.com
+
+Education
+
+Bachelor’s Degree in Computer Science
+
+University of Maine, City, State
+Work Experience
+
+Senior Software Developer (5 years)
+
+HealthTech Corporation, City, State
+Played a significant role in the analysis, development, and maintenance of health data systems and related information technologies
+Worked in collaboration with partners and vendor engineering teams
+Contributed to the products that power the state of Maine’s statewide Health Information Exchange (HIE) platform
+Implemented applications to support business requirements
+Followed approved lifecycle methodologies in an Agile software development environment
+Used extensive experience and judgment to plan and accomplish goals
+Performed program coding and testing
+Resolved technical issues through debugging, research, and investigation
+Designed and developed software systems and created design documents
+Skills
+
+Expertise in application security and authentication, including SSL, OAuth2, STS, and Active Directory
+Ability to write complex SQL queries
+Knowledge of web services and REST APIs
+Experience with JavaScript, Spring Boot and Java Application Servers
+Track record of building scalable enterprise solutions
+Experience with SMART on FHIR
+Proficient in complex programming languages
+Familiarity with data structures and operating systems
+Experience in interface development with integration/interface engines
+Literacy in SQL databases
+Excellent skills in web application development
+Knowledge of SAML
+Experience with Tableau is a plus
+Expertise and Experience
+
+At least five years of development- / integration-related experience
+Leadership qualities demonstrated through team motivation, coaching, and mentoring

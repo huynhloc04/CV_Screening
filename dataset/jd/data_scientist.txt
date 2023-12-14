@@ -1,0 +1,67 @@
+Data Scientist Job Description 
+
+Job Overview
+    We are looking for a data scientist to join our team who would be responsible for turning raw data into actionable insights and provide solutions to multiple problems. You will be required to go through data from various sources, structure it and work on it to make it presentable.The responsibilities include using practical and analytical methods to analyse statistics. You should have a passion for machine learning and research. You would be required to compare data points to current company processes and also write reports.
+
+Job Responsibilities
+    As a Data Scientist, you should be highly analytical with a knack of data analysis and a knack for analysis, mathematics, computer science and statistics. You should have the proven ability to drive business results with data based insights. You would be working with a number of departments and functional teams. The ideal candidate must have a keen interest in discovering hidden and analytical solutions to the complex problems faced and thereby improve business performance and outcomes.
+     - Collection and sorting of data from various sources
+     - Structure unformatted data and interpret results
+     - Prepare data presentations after necessary data processing
+     - Make recommendations to adapt to existing business strategies
+     - Finding authentic data sources
+     - Present and preparing charts and other consumable data in a visual form
+     - Build algorithms and machine learning models
+     - Correlating data to form actionable insights
+     - Combine models through ensemble modeling
+     - Build predictive models
+     - Enhance data collection process
+     - Develop, implement and maintain databases
+     - Develop A/B testing framework to test data quality
+     - Automate data collection processes
+     - Filter data and create valuable reports Data Scientist Salaries
+     - A person working as a Data Scientist earns USD 119,647 on average per year.
+     - The exact salary is however dependent on the company, location and nature of the employer’s business
+
+Job Qualifications
+    The basic qualifications required to be considered for the position of a Data Scientist include:
+     - Either a Bachelor’s degree in Mathematics, Data Science, Statistics, and Economics, or related field or experience in the industry or both
+     - Master degree in a similar discipline preferred
+     - Prior demonstrated experience of at least 3 to 5 years as a Data Analyst or Business Data Analyst or Data Scientist
+     - Experience in data mining
+
+Skills Required
+    A Data Scientist needs to possess a variety of skills in order to be successful in the work environment - they include both job related technical skills as well as interpersonal traits.
+     - Strong mathematical, analytical and problem-solving skills
+     - Familiarity with computer languages such as C++, Java, SQL
+     - Knowledge of R, Python and Scala
+     - Awareness of software development principles
+     - Knowledge of advanced statistical techniques such as regression and statistical tests
+     - Drive to learn and pick up new skills
+     - Experience working with web services S3, Redshift, DigitalOcean
+     - Ability to analyse data from third party providers such as Google Analytics, Site Catalyst, Adwords, Facebook Insights etc.
+     - Knowledge of operations research and machine learning
+     - Use of business intelligence tools such as Tableau, and data frameworks like
+     - Knowledge of cloud technologies such as AWS or My SQL
+     - Understand ETL frameworks
+     - Possess presentation skills - present complex ideas in a systematic manner
+     - Experience with data models and report packages
+     - Adept at report writing, queries, and present findings
+     - Accuracy and attention to detail
+     - Proven debugging and critical problems solving skills
+     - Experience with social media analytics, tech analytics and data mining
+     - Work in cross-functional teams to understand product improvements
+     - Knowledge of the various industry practices
+     - Meticulous and diligent attributes
+     - Ability to cope up with professionalism and integrity
+     - Excellent people and managerial skills
+     - Excellent communication and interpersonal skills
+
+What to expect as a Data Scientist
+To be a data scientist, you must have excellent communication and problem solving skills.
+Here’s what you can expect in this role:
+●  Observe and Analyse Trends
+● Collaborate and work with various team members
+● Work with raw data and structure it
+● Expert advice from professionals in the field and industry
+● Opportunity to manage time and multitask efficiently

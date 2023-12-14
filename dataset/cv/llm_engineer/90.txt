@@ -1,0 +1,40 @@
+Personal Information
+
+Name: Tran Thi Minh
+
+Address: 456 Le Thanh Ton Street, District 1, Ho Chi Minh City, Vietnam
+
+Phone: (84) 987-654-321
+
+Email: tranthiminh@example.com
+
+Education
+
+Master's Degree in Artificial Intelligence
+
+University of Science and Technology, Hanoi, Vietnam
+Work Experience
+
+LLM Engineering Intern (6 months)
+
+Prompt Engineering, Hanoi, Vietnam
+Assisted in developing and deploying LLM applications
+Gained hands-on experience with tools like Llamaindex, GPTQ, MPT, Vector DBs, and Triton Inference Server
+Participated in LLM related development projects
+Gained experience with training and fine-tuning foundational LLM models
+LLM Engineer (2 years)
+
+Tech Startup, Ho Chi Minh City, Vietnam
+Developed and deployed LLM applications and infrastructure to meet business needs
+Trained productivity-related LLMs
+Stayed updated with the latest research and use-cases of LLMs
+Collaborated closely with LLM research teams to participate in foundation model research
+Run LLMs in production
+LLM Researcher (3 years)
+
+IT Company, Singapore
+Collaborated closely with LLM research teams to participate in foundation model research
+Trained and fine-tuned foundational LLM models using state-of-the-art techniques and tools
+Stayed updated with the latest research and use-cases of LLMs
+Developed and deployed LLM applications and infrastructure
+Specialized in training productivity-related LLMs

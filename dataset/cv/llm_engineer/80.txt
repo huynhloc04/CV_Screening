@@ -1,0 +1,46 @@
+Personal Information
+
+Name: Nguyen Van Anh
+
+Address: 123 Dien Bien Phu Street, District 3, Ho Chi Minh City, Vietnam
+
+Phone: (84) 123-456-789
+
+Email: nguyenvananh@example.com
+
+Education
+
+Master's Degree in Computer Science
+
+University of Science and Technology, Hanoi, Vietnam
+Work Experience
+
+LLM Engineering Intern (6 months)
+
+Prompt Engineering, Hanoi, Vietnam
+Assisted in developing and deploying LLM applications
+Gained hands-on experience with tools such as Llamaindex, GPTQ, MPT, Vector DBs, and Triton Inference Server
+Participated in LLM related development projects
+Gained experience with quantization techniques and training foundational LLM models
+LLM Engineer (2 years)
+
+AI-Focused Startup, Ho Chi Minh City, Vietnam
+Responsible for developing and deploying LLM applications and infrastructure
+Kept up with the latest research and use-cases of LLMs
+Collaborated closely with LLM research teams to participate in foundation model research
+Experience with running LLMs in production
+Specialized in training productivity-related LLMs
+LLM Senior Engineer (3 years)
+
+Leading IT Company, Singapore
+Designed LLM inference infrastructure to scalably deploy LLMs within infrastructural constraints
+Trained and fine-tuned foundational LLM models using state-of-the-art techniques and tools
+Stayed updated with the latest research and use-cases of LLMs
+Collaborated closely with LLM research teams to participate in foundation model research
+Skills
+
+Proficient with tools such as Llamaindex, GPTQ, MPT, Vector DBs, Triton Inference Server, Lora, QLora, Langchain
+Experience with LLM related development
+Familiarity with training and fine-tuning foundational LLM models like Llama2 using techniques such as PEFT
+Experience with C++
+Experience in running LLMs in production

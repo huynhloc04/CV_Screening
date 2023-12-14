@@ -1,0 +1,6 @@
+Some rules when creating dummy CVs from a JD:
+- Match rate/percentage depends on the information coverage. (Zero match => It generates a fully diferent to the JD)
+- To increase the match rate/percentage => focus on changing Skill, Work Experience, Education (Incease number of Skills, companies,... )
+- The higher the specific information, the higher the match rate/percentage.
+- The CV-JD matching evaluation of GPT-4 isnot fully consistent.
+- It is more easier to create CV that match 100% to a JD 

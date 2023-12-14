@@ -1,0 +1,37 @@
+Personal Information
+
+Name: Hoang Anh Tuan
+
+Address: 123 Bui Vien Street, District 1, Ho Chi Minh City, Vietnam
+
+Phone: (84) 123-456-789
+
+Email: hoanganhtuan@example.com
+
+Education
+
+Bachelor’s Degree in Computer Engineering
+
+University of Science and Technology, Hanoi, Vietnam
+Work Experience
+
+LLM Engineer Intern (6 months)
+
+Prompt Engineering, Hanoi, Vietnam
+Assisted in developing and deploying LLM applications
+Gained hands-on experience with tools such as Llamaindex, GPTQ, QLora, MPT
+Participated in LLM related development projects
+Assisted in designing LLM inference infrastructure for scalable deployment
+LLM Engineer Junior (1 year)
+
+AI-Focused Startup, Ho Chi Minh City, Vietnam
+Responsible for developing and deploying LLM applications and infrastructure
+Designed LLM inference infrastructure to scalably deploy LLMs
+Worked specifically on training productivity-related LLMs
+Utilized tools such as Triton Inference Server, Lora, llama
+Skills
+
+Proficient with tools such as Llamaindex, GPTQ, QLora, MPT, Triton Inference Server, Lora, llama
+Experience with LLM related development
+Experience in designing LLM inference infrastructure for scalable deployment
+Experience in training productivity-related LLMs

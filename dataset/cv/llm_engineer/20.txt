@@ -1,0 +1,30 @@
+Personal Information
+
+Name: Tran Thi Minh
+
+Address: 123 Le Thanh Ton Street, District 1, Ho Chi Minh City, Vietnam
+
+Phone: (84) 123-456-789
+
+Email: tranthiminh@example.com
+
+Education
+
+Undergraduate in Computer Science
+
+University of Technology, Vietnam National University, Ho Chi Minh City, Vietnam
+Work Experience
+
+Internship (6 months)
+
+DEF Tech Start-up, Ho Chi Minh City, Vietnam
+Trained and fine-tuned foundational LLM models using state-of-the-art techniques and tools
+Gained experience with C++ and Lora
+Participated in the development of consumer applications
+Assisted in IT security tasks and projects
+Skills
+
+Proficient in C++
+Experience with LLMs and Lora
+Basic understanding of IT security
+Experience in consumer application development

@@ -1,0 +1,50 @@
+JOB DESCRIPTION
+
+Position: Full-Stack Developer
+Reports to: Director of Information Systems
+Status: Full Time; Exempt
+
+POSITION OVERVIEW
+     HealthInfoNet is offering an exciting opportunity for a Full-Stack Developer to join a team that is
+     dedicated to improving patient outcomes through innovative applications of information technology.
+     This position will play an important role in the analysis, development, and maintenance of health data
+     systems and related information technology, software, and products that power the state of Maine’s
+     statewide Health Information Exchange (HIE) platform. Excellent communication, collaboration, and
+     the ability to work in a high-paced and demanding environment are critical to this position’s success.
+     The position requires working throughout all levels of the organization, including with internal teams
+     and external clients, partners, and vendor engineering teams.
+
+POSITION DUTIES & RESPONSIBILITIES
+  Core Duties
+    - Design, develop, and implement applications to support business requirements
+    - Follow approved lifecycle methodologies, create design documents, and perform - program coding and testing
+    - Resolve technical issues through debugging, research, and investigation
+    - Rely on extensive experience and judgment to plan and accomplish goals
+    - Demonstrate a high-degree of creativity, finding solutions where others may see
+         roadblocks
+  Core Competencies
+    - Background in computer science, including expertise in algorithms, data structures, complex programming languages, and operating systems
+    - Track record of building scalable enterprise solutions
+    - Experience in interface development with integration/interface engines
+    - Working knowledge of Agile software development lifecycle
+    - Excellent skills in web application development, web services, and REST APIs
+    - Literacy in SQL databases, including the ability to write complex queries
+    - Knowledge of JavaScript, STS, Spring Boot and Java Application Servers
+    - Expertise in application security and authentication, including SSL, HTTPS, and Active Directory
+    - Experience with SMART on FHIR, OAuth2, and SAML preferred
+    - Experience developing cloud-based applications in Azure or AWS preferred
+    - Experience with Tableau is a plus
+     
+Employment Standards
+  Education
+    - Bachelor’s degree in computer science or engineering required
+    - Technical certifications preferred
+  Experience
+    - At least five years of development- / integration-related experience required.
+    - Leadership qualities demonstrated through team motivation, coaching, and mentoring
+    - Knowledge of healthcare information technology and healthcare delivery systems is a plus
+  Working Conditions/Physical Effort
+    - Responsibilities sometimes require working evenings and weekends, at times with little advanced notice
+    - No regular travel required
+For more information, visit HealthInfoNet’s website at www.hinfonet.org.
+To apply, please email a cover letter, resume, and salary requirements to Allison McBrierty, Chief Financial Officer, at amcbrierty@hinfonet.org.

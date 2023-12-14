@@ -1,0 +1,30 @@
+Personal Information
+
+Name: Nguyen Duc Thang
+
+Address: 123 Pham Ngu Lao Street, District 1, Ho Chi Minh City, Vietnam
+
+Phone: (84) 123-456-789
+
+Email: nguyenducthang@example.com
+
+Education
+
+Bachelor’s Degree in Computer Engineering
+
+University of Science and Technology, Hanoi, Vietnam
+Work Experience
+
+LLM Engineer Fresher
+
+Prompt Engineering, Hanoi, Vietnam
+Participated in foundation model research in collaboration with LLM research teams
+Kept up-to-date with the latest LLM research and use-cases
+Gained hands-on experience with tools such as llama, Vector DBs, and GPTQ
+Assisted in running LLMs in production
+Skills
+
+Familiarity with LLMs
+Experience with tools such as llama, Vector DBs, and GPTQ
+Basic experience running LLMs in production
+Strong interest in foundation model research

@@ -1,0 +1,10 @@
+personal_information:
+	- name: Loc Huynh Tan
+	- earliest_university_year: N/A
+	- earliest_university_name: Ho Chi Minh City University of Technology (HCMUT)
+	- birthday: 11/04/2001
+	- gender: N/A
+	- nationality: Vietnamese
+	- desired_position: N/A
+	- desired_salary: N/A
+	- desired_work_location: N/A

@@ -1,0 +1,129 @@
+[Job Description]
+
+Job title: Deep Learning Engineer
+
+Education requirements
+  Below are some keywords of requirements needed for Education in the CV that you should generate the detailed information relevant to them
+  -  degree
+  -  relevant field
+  -  Engineering
+  -  Computer Science
+  -  Ph.D.  
+  -  related field
+  -  plus.
+  -  Bachelor’s
+  -  Master’s
+
+Experience requirements
+  Below are some keywords of requirements needed for Experience in the CV that you should generate the detailed information relevant to them
+  -  experience
+  -  attention models
+  -  CNNs
+  -  3-4 years
+  -  RNNs
+  -  transformer models.
+  -  neural network architectures
+  -  OCR tasks
+
+Responsibilities and Skill requirements
+  Below are some keywords of requirements needed for Responsibilities and Skill in the CV that you should generate the detailed information relevant to them
+  -  OCR techniques
+  -  Stay up-to-date
+  -  deep learning models
+  -  design experiments
+  -  Solid understanding
+  -  TensorFlow
+  -  Conduct
+  -  OCR tasks
+  -  text extraction
+  -  collaborative
+  -  work effectively
+  -  Experience
+  -  transformer models
+  -  model performance
+  -  OCR models
+  -  generalization capabilities
+  -  computer vision
+  -  improve
+  -  optimization algorithms
+  -  character recognition
+  -  deep learning
+  -  latest advancements
+  -  Python
+  -  neural network architectures
+  -  attention models
+  -  Experience
+  -  deep learning
+  -  relevant libraries
+  -  Evaluate
+  -  Strong programming skills
+  -  excellent problem-solving skills
+  -  benchmark
+  -  transfer learning techniques
+  -  neural network models
+  -  related research areas.
+  -  Strong experience
+  -  explainability
+  -  appropriate evaluation metrics
+  -  text normalization
+  -  trained models
+  -  Keras
+  -  NLP
+  -  model interpretability
+  -  team members
+  -  document analysis
+  -  image processing
+  -  transfer learning techniques
+  -  PyTorch
+  -  enhance
+  -  tools
+  -  CNNs
+  -  deployment pipelines
+  -  provide insights
+  -  DevOps team
+  -  convey
+  -  implementing
+  -  ensure
+  -  Explore
+  -  software engineers
+  -  RNNs
+  -  apply
+  -  preprocessing
+  -  cross-functional team environment
+  -  deep learning concepts
+  -  smooth production deployment
+  -  implement
+  -  Design
+  -  complex technical concepts
+  -  machine learning
+  -  OCR system’s decision-making process
+  -  deep learning architectures
+  -  data preprocessing
+  -  Strong communication skills
+  -  collaborate
+  -  Ability
+  -  domain-specific adaptations
+  -  large-scale datasets
+  -  model performance
+  -  integrate
+  -  OCR tasks
+  -  Train
+  -  optimize
+  -  augmentation
+  -  familiarity
+  -  natural language processing
+  -  augmenting data
+  -  Collaborate
+  -  designing
+  -  techniques
+  -  3-4 years of experience
+  -  data augmentation techniques
+  -  deep learning
+  -  analyze
+
+Job Summary
+We are seeking a talented and experienced Deep Learning Engineer to join our team for an exciting Smart OCR project. As a Deep Learning Engineer, you will play a pivotal role in designing, training, and optimizing neural network models to develop a cutting-edge OCR system.
+
+- Only use explicit keywords provided in [Job Description] above, please create a CV that matches ONE HUNDRED percent exactly with each keyword mentioned in [Job Description].
+- The generated CV will have the underlying following fields: Personal Information, Education, Work Experience, Skill.
+- Please give highly attention to keywords in the Education, Experience, Responsibilities and Skill requirement fields in [Job Description], you can generate detailed information or more evidences about these keywords to get best results. 

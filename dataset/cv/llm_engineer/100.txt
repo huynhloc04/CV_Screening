@@ -1,0 +1,46 @@
+Personal Information
+
+Name: Le Quang Trung
+
+Address: 789 Tran Hung Dao Street, District 5, Ho Chi Minh City, Vietnam
+
+Phone: (84) 321-654-987
+
+Email: lequangtrung@example.com
+
+Language: Fluent English
+
+Work Experience
+
+LLM Engineering Intern (6 months)
+
+Prompt Engineering, Hanoi, Vietnam
+Assisted in developing and deploying LLM applications
+Gained hands-on experience with tools such as Llamaindex, GPTQ, MPT, Vector DBs, and Triton Inference Server
+Participated in LLM related development projects
+Gained experience with training and fine-tuning foundational LLM models
+LLM Engineer (2 years)
+
+AI-Focused Startup, Ho Chi Minh City, Vietnam
+Responsible for developing and deploying LLM applications and infrastructure
+Trained productivity-related LLMs
+Kept up with the latest research and use-cases of LLMs
+Collaborated closely with LLM research teams to participate in foundation model research
+Run LLMs in production
+LLM Researcher (3.5 years)
+
+IT Company, Singapore
+Collaborated closely with LLM research teams to participate in foundation model research
+Trained and fine-tuned foundational LLM models using state-of-the-art techniques and tools
+Stayed updated with the latest research and use-cases of LLMs
+Developed and deployed LLM applications and infrastructure
+Specialized in training productivity-related LLMs
+Designed LLM inference infrastructure to scalably deploy LLMs within infrastructural constraints
+Skills
+
+Proficient with tools such as Llamaindex, GPTQ, MPT, Vector DBs, Triton Inference Server, Lora, QLora, Langchain
+Experience with LLM related development
+Familiarity with training and fine-tuning foundational LLM models like Llama2 using techniques such as PEFT
+Experience with C++
+Experience with quantization techniques
+Experience in running LLMs in production

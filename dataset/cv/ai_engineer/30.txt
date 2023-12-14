@@ -1,0 +1,27 @@
+Personal Information
+
+Name: John Smith
+
+Address: 1234 Random Street, City, State, Country
+
+Phone: (123) 456-7890
+
+Email: johnsmith@example.com
+
+Education
+
+Concentration: Deep Learning and Neural Networks
+Work Experience
+
+Deep Learning Engineer Intern
+
+Evaluated and benchmarked OCR models using appropriate evaluation metrics.
+Designed experiments to analyze and improve model performance.
+Conducted data preprocessing and augmentation to enhance model performance and generalization capabilities.
+Involved in text extraction tasks.
+Skills
+
+Proficient in transformer models and Recurrent Neural Networks (RNNs), including usage with Keras library.
+Strong programming skills in Python and familiarity with relevant libraries and tools for deep learning.
+Knowledgeable in data augmentation techniques.
+Ability to work effectively in a collaborative environment.

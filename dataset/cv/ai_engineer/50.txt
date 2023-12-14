@@ -1,0 +1,37 @@
+Personal Information
+
+Name: John Doe
+
+Contact:
+1234 Street, City, State
+Phone: (123) 456-7890
+Email: johndoe@example.com
+
+Education
+
+Master's in Computer Science
+
+ABC University, City, State
+Bachelor's in Computer Science
+
+DEF University, City, State
+Work Experience
+
+Internship as a Deep Learning Engineer Fresher
+
+Collaborated with software engineers and DevOps team to integrate trained models into deployment pipelines.
+Ensured smooth production deployment.
+Evaluated and benchmarked OCR models using appropriate evaluation metrics.
+Designed experiments to analyze and improve model performance.
+Conducted data preprocessing and augmentation to enhance model performance and generalization capabilities.
+Involved in text extraction and related research areas.
+Explored techniques for model interpretability and explainability to provide insights into the OCR system’s decision-making process.
+Skills
+
+Proficient in convolutional neural networks (CNNs), recurrent neural networks (RNNs), and optimization algorithms.
+Familiar with deep learning libraries such as Keras.
+Solid understanding of machine learning and deep learning concepts.
+Experience in preprocessing and augmenting data for deep learning.
+Experience with computer vision and natural language processing (NLP) techniques.
+Strong communication skills to convey complex technical concepts and collaborate with team members.
+Ability to work effectively in a collaborative environment.

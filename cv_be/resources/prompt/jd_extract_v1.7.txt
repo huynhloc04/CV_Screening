@@ -1,0 +1,19 @@
+- Extract the above [Job Description] above exactly according to provided headers below in JSON format.
+- Any information is not found, please note it as "N/A".
+- All the key has to be all lower form and each word must connect by underscore "_"
+- ["string"] mean a list of string, even if there is only one item, put it in a list of one string item.
+- Split 
+
+Below is the JSON format that you must strictly follow:
+
+{
+    "company_overview": ["string"],
+    "job_title": ["string"],
+    "job_summary": ["string"],
+    "responsibilities": ["string"],
+    "skill_requirements": ["string"],
+    "education_requirements": ["string"],
+    "experience_requirements": ["string"],
+    "benefits_and_salary": ["string"],
+    "application_process": ["string"]
+}   

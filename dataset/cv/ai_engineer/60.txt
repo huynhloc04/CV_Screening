@@ -1,0 +1,32 @@
+Personal Information
+
+Name: John Doe
+
+Contact:
+1234 Street, City, State
+Phone: (123) 456-7890
+Email: johndoe@example.com
+
+Education
+
+Bachelor's in Computer Science
+
+ABC University, City, State
+Work Experience
+
+Junior Deep Learning Engineer
+
+Explored techniques for model interpretability and explainability to provide insights into the OCR system’s decision-making process.
+Involved in text extraction and related research areas.
+Designed and implemented deep learning architectures for OCR tasks, including character recognition.
+Stayed up-to-date with the latest advancements in deep learning.
+Skills
+
+Proficient in deep learning libraries such as Keras.
+Experienced in RNNs, attention models, and transformer models.
+Strong communication skills to convey complex technical concepts and collaborate with team members.
+Strong programming skills in Python and familiarity with relevant libraries and tools for deep learning.
+Experience in neural network architectures for OCR tasks, including image processing and text normalization.
+Solid understanding of machine learning and deep learning concepts.
+Experience with computer vision and natural language processing (NLP) techniques.
+Familiar with transfer learning techniques.

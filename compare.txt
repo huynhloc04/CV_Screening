@@ -1,0 +1,85 @@
+[Job Description]
+
+Job description
+- We are seeking a talented and experienced Deep Learning Engineer to join our team for an exciting
+- Smart OCR project. As a Deep Learning Engineer, you will play a pivotal role in designing, training, and optimizing neural network models to develop a cutting-edge OCR system.
+
+Responsibilities:
+- Design and implement deep learning architectures for OCR tasks, including character recognition, text extraction, and document analysis.
+- Train and optimize neural network models using large-scale datasets and apply transfer learning techniques for domain-specific adaptations.
+- Conduct data preprocessing and augmentation to enhance model performance and generalization capabilities.
+- Evaluate and benchmark OCR models using appropriate evaluation metrics and design experiments to analyze and improve model performance.
+- Collaborate with software engineers and DevOps team to integrate trained models into deployment pipelines and ensure smooth production deployment.
+- Explore techniques for model interpretability and explainability to provide insights into the OCR system’s decision-making process.
+- Stay up-to-date with the latest advancements in deep learning, OCR techniques, and related research areas.
+
+Job requirements
+  - Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field. A Ph.D. in a relevant field is a plus.
+  - Strong experience in designing and implementing deep learning models using frameworks such as TensorFlow, PyTorch, or Keras.
+  - Has 3-4 years of experience in neural network architectures for OCR tasks, including CNNs, RNNs, attention models, and transformer models.
+  - Solid understanding of machine learning and deep learning concepts, optimization algorithms, and transfer learning techniques.
+  - Experience in preprocessing and augmenting data for deep learning, including image processing, text normalization, and data augmentation techniques.
+  - Strong programming skills in Python and familiarity with relevant libraries and tools for deep learning.
+  - Experience with computer vision and natural language processing (NLP) techniques is desirable.
+  - Ability to work effectively in a collaborative, cross-functional team environment and excellent problem-solving skills.
+  - Strong communication skills to convey complex technical concepts and collaborate with team members.
+
+How to apply
+After application screening, the next step will be a telephone interview with a member of our HR team.
+If successful, the final stage is face-to-face interview that will take place in our office.
+                                                   
+SEND US YOUR CV
+Work level:
+Expire date: 31/07/2023
+Our benefits:
+   - 13th month salary base on exactly time available monthly working at INNOTECH
+   - Commission/Bonus of Project
+   - Budget for team building each quarter/ kick off project
+   - Birthday party each month with party/ cake and gifts/provide one paid leave
+   - Wedding/New Born ~ 10,000,000/ time
+   - Vaccine for baby from 0-36 months: 3,000,000/ 1 year
+   - Premium healthcare package
+   - Provide Laptop & Extra high definition screens for working
+   - Profit bonus. Performance bonus plan.
+   - Employee referral bonus: 3,000,000 – 10,000,000 (depend on level / roles)
+   - Overseas travel opportunities (Australia/Japan)
+   - Working Time: 9:00 AM – 6:00 PM from Monday – Friday
+   - Working location: Golden Star Building: No. 58B Nguyen Thi Thap Street, Binh Thuan Ward, District 7 HCMC
+People & Passion:
+   - Annual Company trips / Football club / Trekking Club/Year End Party
+   - Support for learning and certificate examination.
+   - Values driven, international working environment and Agile Culture.
+                                  BECOME A MEMBER OF US
+
+[Resume]
+
+Name: Jane Doe
+
+Contact:
+1234 Street, City, State
+Phone: (123) 456-7890
+Email: janedoe@example.com
+
+Objective:
+Seeking a Deep Learning Engineer Intern position to contribute to a Smart OCR project, utilizing my skills in designing, training, and optimizing neural network models to develop a cutting-edge OCR system.
+
+Education:
+
+Bachelor's Degree in Computer Science
+University of XYZ, 2020 - Present
+Currently pursuing with a focus on Deep Learning
+Work Experience:
+
+Deep Learning Engineer Intern
+ABC Tech, Summer 2022
+
+Assisted in designing, training, and optimizing neural network models for a Smart OCR project.
+Collaborated with the team in developing a cutting-edge OCR system.
+Skills:
+
+Proficient in Python and familiar with deep learning frameworks such as TensorFlow and PyTorch.
+Experience in designing, training, and optimizing neural network models.
+Experience in OCR systems.
+
+
+Please compare and score the match rate (how many percent) of the [Resume] to the [Job Description] above ?

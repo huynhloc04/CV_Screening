@@ -1,0 +1,57 @@
+Nguyen Thanh Tam
+CONTACT          32 Tran Van Du, Tan Binh District,              E-mail: tamnguyen240894@gmail.com
+                 HCMC                                                            Phone: 037 232 4888
+SUMMARY            Graduated from Hoa Sen University with very good degree in information technology
+                   Developer with 6 years of experience with the main programming language is .Net
+                   Always learning and improving skills including programming skills and communication
+                   skills
+EDUCATION        Information Technology                                                  2012 — 2016
+                 Hoa Sen University
+                 Graduated with very good degree
+                 Top 2 of Information Technology major in Hoa Sen University
+WORK             FPT Information System                                          02/2016 — 01/2018
+EXPERIENCE       Software Engineer
+                 Project: Hotel Management System for SaiGonTourist
+                 Technical: C#, Tool DevExpress, Crystal Report, SQL Server, .Net MVC, .Net Api
+                 Responsibilities:
+                   Implement modules (customer profile, reservation, HR management, housekeeping,...)
+                   for the system
+                   Fix issue from QA
+                   Daily report for team leader and project manager
+                 Relia Software                                                  03/2018 — 10/2019
+                 Software Engineer
+                 Join backend team
+                 Product: Online medical examination and treatment system
+                 Skills: .Net Core API, Angular, SQL Server, Azure
+                 Responsibilities:
+                   Build Api for system
+                   Join in the web front end team as a support FE developer to build features for the
+                   system
+                   Fix issues from QA
+                   Daily meeting with the customer
+                   Daily report for team leader
+                 HansenCX                                                        12/2019 — current
+                 Software Engineer
+                 Work as a software engineer
+                 Product: ICX Product
+                 Skills: .Net Core, ReactJS, SQL Server, Azure
+                 Responsibilitys:
+                   Maintenance and Improve existed features
+                   Fix issues
+                   Implement new features
+                   Daily meeting
+Nguyen Thanh Tam                                                                                      1
+TECHNICAL        C#, .Net, .Net Core, Web API, Web MVC
+SKILLS           Tool: DevExpress
+                 SQL Server
+                 Azure
+                 HTML/CSS, Javascript, jQuery, Typescript, ReactJS, Angular
+                 Knowledgeable about design pattern
+LANGUAGE         English
+SKILLS
+QUALIFICATIONS   University graduate with very good
+                 Programming: Java Web Developer
+INTERESTS        Travelling
+                 Join party
+                 Sports
+Nguyen Thanh Tam                                                            2

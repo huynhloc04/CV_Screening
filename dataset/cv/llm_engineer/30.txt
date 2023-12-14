@@ -1,0 +1,29 @@
+Personal Information
+
+Name: Le Thi Kim Ngan
+
+Address: 123 Dong Khoi Street, District 1, Ho Chi Minh City, Vietnam
+
+Phone: (84) 123-456-789
+
+Email: lethikimngan@example.com
+
+Education
+
+Undergraduate in Computer Science
+
+Hanoi University of Science and Technology, Hanoi, Vietnam
+Work Experience
+
+LLM Engineering Intern (6 months)
+
+Prompt Engineering, Hanoi, Vietnam
+Assisted in designing LLM inference infrastructure for scalable deployment within infrastructural constraints
+Gained hands-on experience with tools such as llama and cpp
+Participated in LLM related development projects
+Skills
+
+Familiarity with C++ (cpp)
+Basic experience with LLM related development
+Knowledge of tools such as llama
+Understanding of LLM inference infrastructure design

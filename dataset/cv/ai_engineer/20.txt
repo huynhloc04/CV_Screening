@@ -1,0 +1,27 @@
+Personal Information
+
+Name: Jane Doe
+
+Contact:
+1234 Street, City, State
+Phone: (123) 456-7890
+Email: janedoe@example.com
+
+Education
+Currently studying in a field related to Deep Learning
+
+Work Experience
+
+Deep Learning Engineer Intern
+
+Explored techniques for model interpretability and explainability to provide insights into OCR systems’ decision-making processes.
+Involved in text extraction tasks.
+Skills
+
+Proficient in attention models, including Convolutional Neural Networks (CNNs).
+Has 0-1 years of experience in neural network architectures for OCR tasks.
+Familiarity with transfer learning techniques.
+Additional Information
+
+Open to opportunities that offer benefits such as vaccines for babies from 0-36 months, project commissions/bonuses.
+Comfortable working at the location: 58B Nguyen Thi Thap Street.

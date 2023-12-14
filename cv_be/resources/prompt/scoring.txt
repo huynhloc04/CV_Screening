@@ -1,0 +1,84 @@
+- The below headers are some of the fields needed to evaluate how well a candidate in [Resume] fits the [Job Description].
+- Inside each header are two small fields: [Resume] and [Job Description]. Based on these two fields, please compare and score strictly the content similarity in each [Resume] to [Job Description] on a scale of 10. The higher the score, the better the candidate in [Resume] fit for the job metioned in [Job Description].
+- Please then give a detailed explanation for each given score in JSON format. If any field in [Job Description] dont have information, please separate them to the evaluation, which means they do not affect to the general evaluation field.
+
+{{
+1. Job title
+    [Job Description]
+    {jd_title}
+    [Resume]
+    {cv_title}
+    Below is the JSON format that you must strictly follow: 
+    "job_title":
+    {{
+        score:
+        explanation:
+    }}
+
+2. Job summary
+    [Job Description]
+    {jd_summary}
+    [Resume]
+    {cv_summary}
+    Below is the JSON format that you must strictly follow: 
+    "job_summary":
+    {{
+        score:
+        explanation:
+    }}
+    
+3. Qualifications and Skills
+    [Job Description]
+    {jd_qua}
+    [Resume]
+    {cv_qua}
+    Below is the JSON format that you must strictly follow: 
+    "qualifications_and_skills":
+    {{
+        score:
+        explanation:
+    }}
+
+4. Education
+    [Job Description]
+    {jd_edu}
+    [Resume]
+    {cv_edu}
+    Below is the JSON format that you must strictly follow: 
+    "education":
+    {{
+        score:
+        explanation:
+    }}
+
+5. Knowledge and experiences
+    [Job Description]
+    {jd_exper}
+    [Resume]
+    {cv_exper}
+    Below is the JSON format that you must strictly follow: 
+    "knowledge_and_experience":
+    {{
+        score:
+        explanation:
+    }}
+
+6. Benefits and salary
+    [Job Description]
+    {jd_benefit}
+    [Resume]
+    {cv_benefit}
+    Below is the JSON format that you must strictly follow: 
+    "benefits_and_salary":
+    {{
+        score:
+        explanation:
+    }}
+
+7. General evaluation
+    "overall": (Please give the general score and evaluation for this candidate in Resume compare to Job Description: whether this candidate suitable for the job?)
+    {{
+        "overall_score": (also on a scale of 10)
+        "overall_evaluation":
+    }}
+}}

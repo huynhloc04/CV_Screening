@@ -1,0 +1,41 @@
+Personal Information
+
+Name: Jane Smith
+
+Address: 123 Maple Street, City, State, Zip
+
+Phone: (123) 456-7890
+
+Email: janesmith@example.com
+
+Education
+
+Technical Certifications in Software Development
+
+XYZ Certification Institute, City, State
+Work Experience
+
+Software Developer (5 years)
+
+ABC Company, City, State
+Managed the maintenance of health data systems and related information technology
+Acted as a key liaison with partners and vendor engineering teams
+Played a significant role in the analysis and development of software
+Conducted investigations to resolve issues and made creative contributions to project solutions
+Created design documents and implemented applications to support business requirements
+Resolved technical issues through debugging
+Relied on extensive experience and judgment to plan and accomplish goals
+Followed approved lifecycle methodologies within an Agile software development environment
+Skills
+
+Knowledge of REST APIs and web services
+Experience developing cloud-based applications in Azure or AWS
+Proficiency in Spring Boot and Java Application Servers
+Familiarity with Active Directory and STS
+Experience with Tableau for data visualization
+Knowledge of SSL, SAML, and OAuth2 for secure data transmission
+Track record of building scalable enterprise solutions
+Literacy in SQL databases and data structures
+Coaching and mentoring skills
+Knowledge of healthcare information technology and healthcare delivery systems
+Experience with SMART on FHIR for healthcare data interoperability

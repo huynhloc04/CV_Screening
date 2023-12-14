@@ -1,0 +1,282 @@
+- Only use explicit information provided in [Resume] above, please extract it exactly according to provided headers below in JSON format.
+- Inside each header are smaller headers, you must follow strictly that format and do not omit any that small headers even if you cannot find any information about it.
+- Any information is not found, please note it as "N/A", except for "strength"; "weakness"; "numerology"; "iq"; "eq", donot leave them as "N/A" and you must generate by your own.
+- All the key has to be all lower form and each word must connect by underscore "_"
+- ["string"] mean a list of English language string, even if there is only one item, put it in a list of one string item.
+
+Below is the JSON format that you must strictly follow:
+
+{
+  "project": ["string"]  (Do not combine projects together, please keep them separately)
+  [{
+    "project_name": ["string"],
+    "time": ["string"],
+    "position": ["string"],
+    "domain": ["string"],  (The working major in this project)
+    "used_technologies": ["string"],
+    "detailed_descriptions": ["string"] (Do not omit any information)
+  }],
+  "experience": ["string"]  (Do not combine companies together, please keep them separately)
+  [{
+    "company_name": ["string"],
+    "time": ["string"],
+    "position": ["string"],
+    "domain": ["string"], (The working major in this company)
+    "used_technologies": ["string"],
+    "detailed_descriptions": ["string"] (Do not omit any information)
+  }],
+  "strength": ["string"] (Please evaluate the general strength of candidate based on the above [Resume]),
+  "weakness": ["string"] (Please evaluate the general weakness of candidate based on the above [Resume]),
+  "numerology": ["string"] (Firstly extract candidate's birthday, then please provide all information about numerology based on the birthday),
+  "personal_information": 
+  {
+    "name": , 
+    "earliest_university_year": ,
+    "earliest_university_name": ,
+    "birthday": , (if the birthday is not available, calculate exactly "year of birth" based on the earliest education year if birthday information is not provided in resume. The earliest education when candidate is 18 years old, so "year of birth" equal "Earliest education year" minus 18.)
+    "gender": ,
+    "nationality": ,
+    "desired_position": ,
+    "desired_salary": ,
+    "desired_work_location":
+  },
+  "contact_information": 
+  {
+    "phone": ["string"],
+    "email": ["string"],
+    "address": {
+        "street": ["string"],
+        "ward": ["string"],
+        "district": ["string"],
+        "province/city": ["string"]
+    },
+    "urls": ["string"]
+  },
+  "education": (Do not combine school and university together)
+  [{
+    "institution_name": ["string"],
+    "time": ["string"],
+    "degree": ["string"],
+    "major": ["string"],
+    "gpa": ["string"]
+  }],
+  "skills": 
+  {
+    "spoken_language": ["string"],
+    "programming_language": ["string"],
+    "soft_skill": ["string"],
+    "hard_skill": ["string"]
+  },
+  "certificates": 
+  {
+    "language_certificates": ["string"],
+    "other_certificates": ["string"]
+  },
+  "achievements_and_honors": ["string"],
+  "references": (The information of people to contact to for verify the CV or the person that introduce the applicant) 
+  [{
+    "name": ["string"],
+    "company": ["string"],
+    "phone": ["string"],
+    "email": ["string"]
+  }],
+  "publications": 
+  [{
+    "title": ["string"], (Do not include author names)
+    "author_name": ["string"].
+    "year": ["string"]
+  }],
+  "objectives": ["string"],
+  "social_activities": ["string"],
+  "hobbies_and_interests": ["string"],
+  "iq": (IQ is a measure of a person's cognitive abilities or intelligence. Based on information provided in [Resume], please choose the IQ level provided below that match with the [Resume] and give the explanation:
+    - Level 1: Extremely Low - IQ scores below 70
+    - Level 2: Borderline - IQ scores between 70 and 79
+    - Level 3: Below Average - IQ scores between 80 and 89
+    - Level 4: Average - IQ scores between 90 and 109
+    - Level 5: Above Average - IQ scores between 110 and 119
+    - Level 6: Superior - IQ scores between 120 and 129
+    - Level 7: Very Superior - IQ scores above 130 )
+  {
+    "iq_level": ["string"],
+    "explanation": ["string"]
+  }
+  "eq": (EQ refers to the ability to recognize, understand, and manage one's own emotions, as well as to recognize and respond effectively to the emotions of others. Based on information provided in [Resume], please rate EQ score according to the criteria below and give the detail explanation:
+    - Self-awareness:
+      + Level 1: Aware of own emotions and how they impact behavior and decision-making.
+      + Level 2: Able to recognize and understand own emotional strengths and weaknesses.
+      + Level 3: Able to accurately identify and express own emotions in a given situation.
+    - Self-regulation:
+      + Level 1: Able to control impulsive behaviors and delay gratification when necessary.
+      + Level 2: Able to manage own emotions and reactions in challenging situations.
+      + Level 3: Able to regulate own emotions and maintain a consistent demeanor in stressful situations.
+    - Motivation:
+      + Level 1: Able to identify and pursue personal goals and interests.
+      + Level 2: Able to maintain a positive attitude and outlook, even in the face of challenges.
+      + Level 3: Able to inspire and motivate others to achieve their goals.
+    - Empathy:
+      + Level 1: Able to recognize and understand the emotions of others.
+      + Level 2: Able to actively listen to others and show empathy through verbal and nonverbal cues.
+      + Level 3: Able to accurately predict how others might feel in a given situation and adjust behavior accordingly.
+    - Social skills:
+      + Level 1: Able to effectively communicate thoughts and ideas to others.
+      + Level 2: Able to build and maintain positive relationships with others.
+      + Level 3: Able to navigate complex social situations with ease and grace.  )
+    {
+      "self_awareness_level": ["string"],
+      "self_regulation_level": ["string"],
+      "motivation_level": ["string"],
+      "empathy_level": ["string"],
+      "social_skills_level": ["string"],
+      "explanation": ["string"]
+    },
+  "summary": ["string"] (Give the overall evaluation or summaries for candidate in this [Resume]),
+  "industry": ["string"] (Based on information in "Experience" and "Projects" fields above, please choose THREE industries listed below that best match with current candidate's work:
+    - Accounting
+    - Airlines/Aviation
+    - Alternative Dispute Resolution
+    - Alternative Medicine
+    - Animation
+    - Apparel & Fashion
+    - Architecture & Planning
+    - Arts and Crafts
+    - Automotive
+    - Aviation & Aerospace
+    - Banking
+    - Biotechnology
+    - Broadcast Media
+    - Building Materials
+    - Business Supplies and Equipment
+    - Capital Markets
+    - Chemicals
+    - Civic & Social Organization
+    - Civil Engineering
+    - Commercial Real Estate
+    - Computer & Network Security
+    - Computer Games
+    - Computer Hardware
+    - Computer Networking
+    - Computer Software
+    - Construction
+    - Consumer Electronics
+    - Consumer Goods
+    - Consumer Services
+    - Cosmetics
+    - Dairy
+    - Defense & Space
+    - Design
+    - Education Management
+    - E-Learning
+    - Electrical/Electronic Manufacturing
+    - Entertainment
+    - Environmental Services
+    - Events Services
+    - Executive Office
+    - Facilities Services
+    - Farming
+    - Financial Services
+    - Fine Art
+    - Fishery
+    - Food & Beverages
+    - Food Production
+    - Fund-Raising
+    - Furniture
+    - Gambling & Casinos
+    - Glass Ceramics & Concrete
+    - Government Administration
+    - Government Relations
+    - Graphic Design
+    - Health Wellness and Fitness
+    - Higher Education
+    - Hospital & Health Care
+    - Hospitality
+    - Human Resources
+    - Import and Export
+    - Individual & Family Services
+    - Industrial Automation
+    - Information Services
+    - Information Technology and Services
+    - Insurance
+    - International Affairs
+    - International Trade and Development
+    - Internet
+    - Investment Banking
+    - Investment Management
+    - Judiciary
+    - Law Enforcement
+    - Law Practice
+    - Legal Services
+    - Legislative Office
+    - Leisure Travel & Tourism
+    - Libraries
+    - Logistics and Supply Chain
+    - Luxury Goods & Jewelry
+    - Machinery
+    - Management Consulting
+    - Maritime
+    - Market Research
+    - Marketing and Advertising
+    - Mechanical or Industrial Engineering
+    - Media Production
+    - Medical Devices
+    - Medical Practice
+    - Mental Health Care
+    - Military
+    - Mining & Metals
+    - Motion Pictures and Film
+    - Museums and Institutions
+    - Music
+    - Nanotechnology
+    - Newspapers
+    - Non-Profit Organization Management
+    - Oil & Energy
+    - Online Media
+    - Outsourcing/Offshoring
+    - Package/Freight Delivery
+    - Packaging and Containers
+    - Paper & Forest Products
+    - Performing Arts
+    - Pharmaceuticals
+    - Philanthropy
+    - Photography
+    - Plastics
+    - Political Organization
+    - Primary/Secondary Education
+    - Printing
+    - Professional Training & Coaching
+    - Program Development
+    - Public Policy
+    - Public Relations and Communications
+    - Public Safety
+    - Publishing
+    - Railroad Manufacture
+    - Ranching
+    - Real Estate
+    - Recreational Facilities and Services
+    - Religious Institutions
+    - Renewables & Environment
+    - Research
+    - Restaurants
+    - Retail
+    - Security and Investigations
+    - Semiconductors
+    - Shipbuilding
+    - Sporting Goods
+    - Sports
+    - Staffing and Recruiting
+    - Supermarkets
+    - Telecommunications
+    - Textiles
+    - Think Tanks
+    - Tobacco
+    - Translation and Localization
+    - Transportation/Trucking/Railroad
+    - Utilities
+    - Venture Capital & Private Equity
+    - Veterinary
+    - Warehousing
+    - Wholesale
+    - Wine and Spirits
+    - Wireless
+    - Writing and Editing )
+}

@@ -1,0 +1,21 @@
+Personal Information
+
+Name: Tran Van Hung
+
+Address: 123 Nguyen Hue Boulevard, District 1, Ho Chi Minh City, Vietnam
+
+Phone: (84) 123-456-789
+
+Email: tranvanhung@example.com
+
+Work Experience
+
+Software Developer Intern (6 months)
+
+IT Company, Ho Chi Minh City, Vietnam
+Assisted in the development and deployment of software applications
+Gained initial experience in LLM related development
+Skills
+
+Basic knowledge in C++
+Familiarity with software development and deployment
